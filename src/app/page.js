@@ -21,7 +21,7 @@ export default function Home() {
                 <span className="bg-white py-4 pl-4 mb-2 pr-1 md:mb-0">
                   ListaLink.to/
                 </span>
-                <input
+                <input  
                   type='text'
                   className="py-4 px-4 mb-2 md:mb-0 
                    focus:outline-none"
