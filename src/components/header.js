@@ -8,7 +8,7 @@ export default function Header() {
   const [isMenuOpen, setMenuOpen] = useState(false);
 
   return (
-    <header className="bg-white rounded-lg shadow max-w-5xl mx-auto">
+    <header className="bg-white rounded-lg mt-4 shadow max-w-5xl mx-auto">
       <div className=" w-full p-4 md:py-5   flex justify-between">
         <div className="flex gap-6">
           <Link href={"/"} className="text-2xl font-bold" passHref>

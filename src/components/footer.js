@@ -8,7 +8,7 @@ import { faLinkedin } from "@fortawesome/free-brands-svg-icons";
 export default function Footer() {
   return (
     <>
-      <footer className="bg-white rounded-lg max-w-5xl mx-auto shadow">
+      <footer className="bg-white rounded-lg max-w-5xl mx-auto shado m-4">
         <div className="w-full  p-4  md:py-8">
           <div className="sm:flex sm:items-center sm:justify-between">
             <Link href={"/"} className="text-3xl font-bold" passHref>
