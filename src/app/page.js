@@ -29,7 +29,8 @@ export default function Home() {
                 />
                 <button
                   type="submit"
-                  className="bg-blue-500 text-white p-4 px-6 whitespace-nowrap"
+                  className="bg-blue-500 text-white p-4 
+                  px-6 whitespace-nowrap hover:bg-blue-700 focus:bg-blue-700"
                 >
                   Inscreva-se grátis
                 </button>
